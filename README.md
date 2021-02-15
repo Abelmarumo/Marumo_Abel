@@ -1,3 +1,9 @@
+# [Project 4: Potential Driven Stuedents App]()
+
+Potential Driven Students(PDS) is a student structure established in the University Of Limpopo by students(I am one of them) in the school of mathematics and computer sciences. PDS assists fellow students in the school of mathematics and computer sciences with their modules in terms of extra classes. However, before getting help from this organization, the student should first fill a manual form and then deposit some fees in the organization's bank account. This manual process for the enrollment of students is an inconvenience in many ways. Among these inconveniences, one of them is the poor data management of the students.
+
+PDS app is built(by Marumo AM) to champion most of these challenges encountered by the organization. The app allows students to enroll and pay on their mobile smartphones. The app is built with flutter, stripe payment gateway, and firebase.
+
 # [Project 3: To Vaccinate or Not to Vaccinate: It’s not a Question by EXPLORE Data Science Academy](https://github.com/Abelmarumo/Vaccination_hackathon)
 
 Although it may be many months before we see COVID-19 vaccines available on a global scale, it is important to monitor public sentiment towards vaccinations now and especially in the future when COVID-19 vaccines are offered to the public. The anti-vaccination sentiment could pose a serious threat to the global efforts to get COVID-19 under control in the long term.
